@@ -1,0 +1,47 @@
+body {
+    background-color: lightgray;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+li,
+p,
+a {
+    font-size: 14px;
+}
+
+.description,
+.ingredients,
+.steps {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    text-align: center;
+}
+
+ul {
+    color: blue;
+}
+
+ol {
+    color: green;
+}
+
+a {
+    color: red;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+.image-container {
+    text-align: center;
+}
